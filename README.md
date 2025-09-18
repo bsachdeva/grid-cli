@@ -17,5 +17,5 @@ Usage <br>
    grid create [x] [y] <br>
    x (optional): number of columns, defaults to 16 <br>
    y (optional): number of rows, defaults to 8 <br>
-   Example: grid create 4 6
+   Example: grid create 4 6 <br>
    This generates a 4x6 table component.
